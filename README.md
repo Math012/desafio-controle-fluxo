@@ -4,6 +4,11 @@ www.dio.me
 #### Autores
 - [Matheus Silva](https://github.com/Math012)
 
+### Configuração
+
+- Java 17.
+- IntelliJ
+
 ## Controle de Fluxo - Desafio
 
 
